@@ -1,16 +1,19 @@
-## Hi there 👋
+### 👋 Olá, eu sou a Luisa!
 
-<!--
-**Luisaava/luisaava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Ciências da Computação na UFSC**, apaixonada por desenvolvimento de software, tecnologia aplicada à saúde e pesquisa interdisciplinar. 
 
-Here are some ideas to get you started:
+- 🔬 **Pesquisa Científica:** Faço Iniciação Científica no **Laboratório Lummertz da Rocha**, focada em análise de célula única (*single-cell*), biologia do câncer e interpretação de dados biológicos usando **R**.
+- 💻 **Desenvolvimento Web & Software:** Atuo como bolsista no **Laboratório de Telemedicina**, desenvolvendo soluções web com **JavaScript, React, Node.js e Docker**.
+- 🏆 **Interesses:** Bioinformática, desenvolvimento full-stack e algoritmos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Stack Tecnológica
+- **Linguagens:** Python, R, JavaScript, SQL
+- **Web & Backend:** React, Node.js, HTML, CSS
+- **Ferramentas & DevOps:** Git, GitHub, Docker, MySQL, Power BI
+- **Idiomas:** Inglês Avançado
+
+---
+📫 **Vamos nos conectar?**
+www.linkedin.com/in/luisa-albuquerque-vasconcellos | luisaava59@gmail.com
